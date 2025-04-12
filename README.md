@@ -2,4 +2,4 @@ Figma: https://www.figma.com/design/3JpS6PHkTTzYL5IiV5TgWE/Donation-app?node-id=
 
 Slide: https://www.canva.com/design/DAGkbLE7aS4/jf5_ei8algLgQK9x5tmv4A/view?utm_content=DAGkbLE7aS4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h17d480918d
 
-Proposal: https://docs.google.com/document/d/1124g5ecHyAGOrcx2mqF3sXtqSlWjcnPxb6ChgPa0rDs/edit?tab=t.0
+Proposal: https://docs.google.com/document/d/1124g5ecHyAGOrcx2mqF3sXtqSlWjcnPxb6ChgPa0rDs/edit?usp=sharing
