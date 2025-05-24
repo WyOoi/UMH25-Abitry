@@ -1,6 +1,5 @@
 # Donation App - UM Hackathon 2025
 
-[![UM Hackathon 2025](https://img.shields.io/badge/UM%20Hackathon-2025-blue?style=for-the-badge&logo=university)](https://hackathon.um.edu.my)
 [![Figma Design](https://img.shields.io/badge/Figma-Design-purple?style=flat-square&logo=figma)](https://www.figma.com/design/3JpS6PHkTTzYL5IiV5TgWE/Donation-app?node-id=0-1&t=YF2qAcQll7m3cdoc-1)
 [![Canva Presentation](https://img.shields.io/badge/Canva-Presentation-orange?style=flat-square&logo=canva)](https://www.canva.com/design/DAGkbLE7aS4/V61qhfktIxitrHhoCWWEgw/edit?utm_content=DAGkbLE7aS4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
