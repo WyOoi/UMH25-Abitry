@@ -53,10 +53,10 @@ cd donation-app
 Built for UM Hackathon 2025
 
 **Meet our amazing team:**
-- 👨‍💻 **Yong Ying** - Team Member
+- 👩‍💻 **Yong Ying** - Team Member
 - 👩‍💻 **Xin Hui** - Team Member  
-- 👨‍💻 **Xin Yee** - Team Member
-- 👩‍💻 **Zhan Hong** - Team Member
+- 👩‍💻 **Xin Yee** - Team Member
+- 👨‍💻 **Zhan Hong** - Team Member
 - 👨‍💻 **Me** - Team Member
 
 ---
