@@ -1,4 +1,4 @@
-# 💝 Donation App - UM Hackathon 2025
+# Donation App - UM Hackathon 2025
 
 [![UM Hackathon 2025](https://img.shields.io/badge/UM%20Hackathon-2025-blue?style=for-the-badge&logo=university)](https://hackathon.um.edu.my)
 [![Figma Design](https://img.shields.io/badge/Figma-Design-purple?style=flat-square&logo=figma)](https://www.figma.com/design/3JpS6PHkTTzYL5IiV5TgWE/Donation-app?node-id=0-1&t=YF2qAcQll7m3cdoc-1)
@@ -33,11 +33,6 @@ git clone https://github.com/your-username/donation-app.git
 # 2. Navigate to project directory
 cd donation-app
 
-# 3. Install dependencies
-npm install
-
-# 4. Start the development server
-npm start
 ```
 
 ---
@@ -67,5 +62,5 @@ Built for UM Hackathon 2025
 ---
 
 <div align="center">
-  <strong>🏆 UM Hackathon 2025 • 💝 Donation App • 🌟 Making Impact</strong>
+  <strong> UM Hackathon 2025 • 💝 Donation App • 🌟 Making Impact</strong>
 </div>
